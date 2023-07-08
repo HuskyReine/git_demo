@@ -1,8 +1,8 @@
 hello world!  reine
 hello git!    lanyin
-hello world!
-hello git!
-hello world!
+hello world!   space-travelling rabbit 
+hello git!     aeronautical rabbit
+hello world!   astronomical rabbit
 hello git!
 hello world!
 hello git!
